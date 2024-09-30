@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\bin\Debug\Task18A.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\bin\Debug\Task18A.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\bin\Debug\Task18A.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\obj\Debug\Task18A.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\obj\Debug\Task18A.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\obj\Debug\Task18A.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task18A\obj\Debug\Task18A.pdb
