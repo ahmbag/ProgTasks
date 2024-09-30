@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\bin\Debug\Galgenman.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\bin\Debug\Galgenman.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\bin\Debug\Galgenman.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\obj\Debug\Galgenman.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\obj\Debug\Galgenman.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\obj\Debug\Galgenman.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Galgenman\obj\Debug\Galgenman.pdb

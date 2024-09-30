@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\bin\Debug\Task451.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\bin\Debug\Task451.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\bin\Debug\Task451.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\obj\Debug\Task451.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\obj\Debug\Task451.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\obj\Debug\Task451.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task451\obj\Debug\Task451.pdb

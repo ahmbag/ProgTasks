@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\bin\Debug\Task611.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\bin\Debug\Task611.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\bin\Debug\Task611.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\obj\Debug\Task611.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\obj\Debug\Task611.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\obj\Debug\Task611.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task611\obj\Debug\Task611.pdb

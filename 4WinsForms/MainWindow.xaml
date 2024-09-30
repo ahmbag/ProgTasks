@@ -1,0 +1,69 @@
+﻿<Window x:Class="_4WinsForms.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_4WinsForms"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Werfe in 0" Margin="0,0,700,380" Click="Button_Click0"/>
+        <Button Content="Werfe in 1" Margin="100,0,600,380" Click="Button_Click1" RenderTransformOrigin="1.395,1.986"/>
+        <Button Content="Werfe in 2" Margin="200,0,500,380" Click="Button_Click2" RenderTransformOrigin="1.395,1.986"/>
+        <Button Content="Werfe in 3" Margin="300,0,400,380" Click="Button_Click3" RenderTransformOrigin="1.395,1.986"/>
+        <Button Content="Werfe in 4" Margin="400,0,300,380" Click="Button_Click4" RenderTransformOrigin="1.395,1.986"/>
+        <Button Content="Werfe in 5" Margin="500,0,200,380" Click="Button_Click5" RenderTransformOrigin="1.395,1.986"/>
+        <Button Content="Werfe in 6" Margin="600,0,100,380" Click="Button_Click6" RenderTransformOrigin="1.395,1.986"/>
+        
+        <Rectangle x:Name="field00" HorizontalAlignment="Left" Height="50" Margin="0,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field01" HorizontalAlignment="Left" Height="50" Margin="0,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field02" HorizontalAlignment="Left" Height="50" Margin="0,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field03" HorizontalAlignment="Left" Height="50" Margin="0,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field04" HorizontalAlignment="Left" Height="50" Margin="0,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field05" HorizontalAlignment="Left" Height="50" Margin="0,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Rectangle x:Name="field10" HorizontalAlignment="Left" Height="50" Margin="100,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field11" HorizontalAlignment="Left" Height="50" Margin="100,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field12" HorizontalAlignment="Left" Height="50" Margin="100,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field13" HorizontalAlignment="Left" Height="50" Margin="100,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field14" HorizontalAlignment="Left" Height="50" Margin="100,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field15" HorizontalAlignment="Left" Height="50" Margin="100,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Rectangle x:Name="field20" HorizontalAlignment="Left" Height="50" Margin="200,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field21" HorizontalAlignment="Left" Height="50" Margin="200,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field22" HorizontalAlignment="Left" Height="50" Margin="200,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field23" HorizontalAlignment="Left" Height="50" Margin="200,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field24" HorizontalAlignment="Left" Height="50" Margin="200,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field25" HorizontalAlignment="Left" Height="50" Margin="200,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Rectangle x:Name="field30" HorizontalAlignment="Left" Height="50" Margin="300,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field31" HorizontalAlignment="Left" Height="50" Margin="300,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field32" HorizontalAlignment="Left" Height="50" Margin="300,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field33" HorizontalAlignment="Left" Height="50" Margin="300,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field34" HorizontalAlignment="Left" Height="50" Margin="300,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field35" HorizontalAlignment="Left" Height="50" Margin="300,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Rectangle x:Name="field40" HorizontalAlignment="Left" Height="50" Margin="400,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field41" HorizontalAlignment="Left" Height="50" Margin="400,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field42" HorizontalAlignment="Left" Height="50" Margin="400,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field43" HorizontalAlignment="Left" Height="50" Margin="400,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field44" HorizontalAlignment="Left" Height="50" Margin="400,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field45" HorizontalAlignment="Left" Height="50" Margin="400,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Rectangle x:Name="field50" HorizontalAlignment="Left" Height="50" Margin="500,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field51" HorizontalAlignment="Left" Height="50" Margin="500,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field52" HorizontalAlignment="Left" Height="50" Margin="500,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field53" HorizontalAlignment="Left" Height="50" Margin="500,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field54" HorizontalAlignment="Left" Height="50" Margin="500,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field55" HorizontalAlignment="Left" Height="50" Margin="500,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
+        <Rectangle x:Name="field60" HorizontalAlignment="Left" Height="50" Margin="600,50,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field61" HorizontalAlignment="Left" Height="50" Margin="600,100,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field62" HorizontalAlignment="Left" Height="50" Margin="600,150,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field63" HorizontalAlignment="Left" Height="50" Margin="600,200,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field64" HorizontalAlignment="Left" Height="50" Margin="600,250,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Rectangle x:Name="field65" HorizontalAlignment="Left" Height="50" Margin="600,300,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+        <Button Content="RESET" HorizontalAlignment="Left" Height="45" Margin="688,360,0,0" VerticalAlignment="Top" Width="90" Click="Button_Click"/>
+
+    </Grid>
+</Window>

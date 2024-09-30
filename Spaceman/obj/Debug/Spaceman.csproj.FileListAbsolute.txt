@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\bin\Debug\Spaceman.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\bin\Debug\Spaceman.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\bin\Debug\Spaceman.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\obj\Debug\Spaceman.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\obj\Debug\Spaceman.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\obj\Debug\Spaceman.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Spaceman\obj\Debug\Spaceman.pdb

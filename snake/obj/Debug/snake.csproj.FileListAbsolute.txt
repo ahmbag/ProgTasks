@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\bin\Debug\snake.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\bin\Debug\snake.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\bin\Debug\snake.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\obj\Debug\snake.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\snake\obj\Debug\snake.pdb

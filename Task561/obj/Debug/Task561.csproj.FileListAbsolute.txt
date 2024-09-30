@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\bin\Debug\Task561.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\bin\Debug\Task561.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\bin\Debug\Task561.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\obj\Debug\Task561.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\obj\Debug\Task561.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\obj\Debug\Task561.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task561\obj\Debug\Task561.pdb

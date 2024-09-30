@@ -1,0 +1,7 @@
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\bin\Debug\4Wins.exe.config
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\bin\Debug\4Wins.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\bin\Debug\4Wins.pdb
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\obj\Debug\4Wins.csproj.AssemblyReference.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\obj\Debug\4Wins.csproj.CoreCompileInputs.cache
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\obj\Debug\4Wins.exe
+C:\Users\ITA5-TN22\source\repos\ConsoleApp1\4Wins\obj\Debug\4Wins.pdb
