@@ -1,7 +1,0 @@
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\bin\Debug\Task251.exe.config
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\bin\Debug\Task251.exe
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\bin\Debug\Task251.pdb
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\obj\Debug\Task251.csproj.AssemblyReference.cache
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\obj\Debug\Task251.csproj.CoreCompileInputs.cache
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\obj\Debug\Task251.exe
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task251\obj\Debug\Task251.pdb

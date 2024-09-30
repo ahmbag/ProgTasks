@@ -1,7 +1,0 @@
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\bin\Debug\Task421.exe.config
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\bin\Debug\Task421.exe
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\bin\Debug\Task421.pdb
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\obj\Debug\Task421.csproj.AssemblyReference.cache
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\obj\Debug\Task421.csproj.CoreCompileInputs.cache
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\obj\Debug\Task421.exe
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task421\obj\Debug\Task421.pdb

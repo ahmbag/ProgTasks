@@ -1,7 +1,0 @@
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\bin\Debug\Task13A.exe.config
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\bin\Debug\Task13A.exe
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\bin\Debug\Task13A.pdb
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\obj\Debug\Task13A.csproj.AssemblyReference.cache
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\obj\Debug\Task13A.csproj.CoreCompileInputs.cache
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\obj\Debug\Task13A.exe
-C:\Users\ITA5-TN22\source\repos\ConsoleApp1\Task13A\obj\Debug\Task13A.pdb
