@@ -13,15 +13,26 @@ namespace Task18A
         private List<Rennschnecke> _teilnehmer = new List<Rennschnecke>();
         private int _distance;
 
-        public Rennen(string name, List<Rennschnecke> teilnehmer, int distance)
+        public Rennen(string name, int distance, int entrants, List<Rennschnecke> teilnehmer = null)
         {
             _name = name;
-            _entrants = teilnehmer.Count;
-            _teilnehmer = teilnehmer;
+            _entrants = entrants;
+            if(teilnehmer != null) 
+                _teilnehmer = teilnehmer;
             _distance = distance;
         }
 
         public void AddRennschnecke(Rennschnecke rennschnecke) { 
+            if(_entrants == _teilnehmer.Count)
+            {
+                Console.WriteLine("Alle Plätze belegt");
+                return;
+            }
+
+            //if(_teilnehmer.Find(x => x.GetName() == rennschnecke.GetName()) != null){
+            //    Console.WriteLine("Schnecke bereits registriert: " + rennschnecke.GetName());
+            //    return;
+            //}
             _teilnehmer.Add(rennschnecke);
             _entrants++;
         }

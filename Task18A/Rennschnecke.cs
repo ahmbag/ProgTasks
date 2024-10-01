@@ -6,12 +6,17 @@ using System.Threading.Tasks;
 
 namespace Task18A
 {
-    internal class Rennschnecke
+    internal class Rennschnecke : ICloneable
     {
         private string _name;
         private int _maxspeed;
         private int _distance;
         static Random r = new Random();
+
+        public object Clone()
+        {
+            return this.MemberwiseClone();
+        }
 
         public Rennschnecke(string name, int maxspeed, int distance = 0)
         {
@@ -42,5 +47,7 @@ namespace Task18A
         {
             return _maxspeed;
         }
+
+        
     }
 }

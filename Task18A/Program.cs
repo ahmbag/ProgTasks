@@ -13,15 +13,12 @@ namespace Task18A
             Rennschnecke r1 = new Rennschnecke("super", 5);
             Rennschnecke r2 = new Rennschnecke("mega", 5);
             Rennschnecke r3 = new Rennschnecke("turbo", 5);
-            List<Rennschnecke> teilnehmer = new List<Rennschnecke>
-            {
-                r1,
-                r2,
-                r3,
-                Newinstanceof(r1)
-            };
 
-            Rennen r = new Rennen("finale", teilnehmer, 40);
+            Rennen r = new Rennen("finale", 40, 8);
+            r.AddRennschnecke(r1);
+            r.AddRennschnecke(r2);
+            r.AddRennschnecke(r3);
+            r.AddRennschnecke((Rennschnecke)r1.Clone());
 
             Wettbuero w = new Wettbuero(r, 25);
 
@@ -37,9 +34,5 @@ namespace Task18A
             Console.ReadLine();
         }
 
-        private static Rennschnecke Newinstanceof(Rennschnecke r1)
-        {
-            return new Rennschnecke(r1.GetName(), r1.GetSpeed());
-        }
     }
 }
