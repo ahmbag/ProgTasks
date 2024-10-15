@@ -9,9 +9,11 @@ namespace Task0208
 {
     internal class Program
     {
+        static Haustier[] tiere;
+
         static void Main(string[] args)
         {
-            var tiere = Anlegen();
+            tiere = Anlegen();
 
             var neuerVogel = new Vogel("blub", 100000, false);
             foreach (var t in tiere)
